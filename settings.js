@@ -17,7 +17,7 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
  //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
+ //  * @author : REINER
  //  * @youtube : https://www.youtube.com/@s4salmanyt
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
@@ -26,12 +26,12 @@
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
+//GitHub: @REINER
 //WhatsApp: +254742948136
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: RAY.
-//   * Credit To Xeon 
-//   * © 2024 RAY.
+//   * Created By Github: REINER.
+//   * Credit To Xeon
+//   * © 2024 XLICON-V3-MD.
 // ⛥┌┤
 // */
 
@@ -54,9 +54,11 @@ global.botname = process.env.BOT_NAME || 'REINER' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '254742948136' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'REINER JOSHU' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'REINER' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+//________________________________________________________________________________________________________
+global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -64,13 +66,13 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "REINER"
+global.packname = process.env.PACK_NAME || "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY REINER"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "254742948136@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '.'
+global.xprefix = process.env.PREFIX || ','
 //________________________________________________________________________________________________________
 global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
 //________________________________________________________________________________________________________
